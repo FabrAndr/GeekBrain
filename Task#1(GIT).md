@@ -56,3 +56,6 @@
 [Официальный manual по git](https://git-scm.com/docs/user-manual)
 
 [Официальный manual по github](https://github.com/git-guides)
+
+
+    Some instruction about working with directories. In a way to copy your repository from GitHub you can use `git clone` to transmit your file to your computer.
