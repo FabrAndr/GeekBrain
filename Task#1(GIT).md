@@ -60,4 +60,4 @@
 
     Some instruction about working with directories. In a way to copy your repository from GitHub you can use `git clone` to transmit your file tgi
         When you start working with branche and you want merge one within another, you should change a branch to ones that you want to merge with.
-    Notice: then you switch branch to one another, you may lost commits from another branches, if you didn
+    Notice: then you switch branch to one another, you may lost commits from another branches, if you didn, but you must
