@@ -59,3 +59,4 @@
 
 
     Some instruction about working with directories. In a way to copy your repository from GitHub you can use `git clone` to transmit your file to your computer.
+        When you start working with branche and you want merge one within another, you should change a branch to ones that you want to merge with.
