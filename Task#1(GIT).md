@@ -14,7 +14,12 @@
 
 
 ![Перечень основных команд по использованию системы git](https://robotrackkursk.ru/wp-content/uploads/7/b/7/7b70c59517ca4da351b1f4822e35c90e.png)
-
+### Работа Pull request
+In next topic, we will talking about *pull request*. There could add some changing into a git project of your teammates\friends\colleges. If you need it, thereby you chould download your code by this. Below we explain the algoritm.
+1. Check your repository on GitHub. Look for worked branch and click the button **Pull request**(all commits and differences that add into *request*, showed on the screen );
+2. You see the app of chosing of basic or original version. on the left side, you see a relative repository, into this you add your changes. On the right side, you see you basic repository, from this one you pull yor commits with special ID.
+3. When you finish and review at all. You click *send pull request*
+4. After last 3 topics, you just will have to wait and check your request, check what will write a maintaner.
 ### Более подробно о commit
 Основы работы с Git предполагают понимание коммитов. Команда git commit откроет текстовый редактор для ввода сообщения коммита. Также эта команда принимает несколько аргументов:
 
